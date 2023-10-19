@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<!--tipos de caracteres-->
+    <meta charset="UTF-8">
+<!--significa o tamanho que vai ocupar o espaço da tela-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--titulo do site--> 
+    <title>Benitolandia&#x274C;&#x274C;&#x274C;</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <h2>Salve meu querido, muito prazer benitola</h2>
+    <p>Meu primeiro documento HTML - E tinha que ser obviamente <br><h1>DO BENITOLA&#x1F525;</h1><br>
+    vamos ver como vai o desenvolimento</p>
+    <hr>
+    <h2>Benitoliro</H2>
+    <p>Quero entendender nesse paragrafo como funciona o lt e o gt que é &lt;p&gt; e tambem o &lt;/p&gt;</p>
+    <p>diferença de titulos vem do tamanho do H, quando maior o H, menor o tamnanho do titulo</p>
+    <h6>oi, eu sou um fã querendo emprego</h6>
+    <h1>Segmentando e entendendo o HTML para programar no Deco.cx</h1>
+    <h2>1 - Introdução</h2>
+    <h3>oque é o corpo head body e outros conceitos importantes <br>
+    como fazer o imput de imagens para o seu site <br></h3>
+    <h4>sendo esses importados da internet ou salvos no servidor local</h4>
+    <p>Testando alguns simbolos para colocar em textos &euro; &real; &reg; &copy; &uparrow; &uArr; &delta; &yen; &pound; &dollar;<br></p>
+    <h3>uso de carctereres especificos e emojis</h3>
+    &#x274C;&#x1F525;<br>
+    <h2>2 - Avançando</h2>
+    <h3>...</h3>
+    <h1>teste de imagens</h1>
+    <img src="Imagem do WhatsApp de 2023-10-19 à(s) 15.23.31_1ee4e3d2.jpg" alt="Collares com pudim">
+</body>
+</html>
